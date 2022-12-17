@@ -1,4 +1,4 @@
-### OLÁ 👋
+### ✨ OLÁ 👋 ✨
 
 <!--
 **saul0t0rres/saul0t0rres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
