@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME](https://miro.medium.com/max/640/0*VV3Nmxgv3KX4sLhr.gif)">
 
 Sou Especialista em Fisioterapeuta na Unidade de Terapia Intensiva (UTI).
 Sou Técnico em Informática - Desenvolvimento de Sistemas.
