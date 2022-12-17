@@ -32,6 +32,6 @@ Aqui estão algumas idéias para você começar:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saul0t0rres&theme=default&layout=compact#gh-light-mode-only)](https://github.com/saul0t0rres/github-readme-stats#gh-light-mode-only)
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/saul0t0rres?tab=repositories)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/)
 
 ![torresjump](https://user-images.githubusercontent.com/116840416/208263926-a5ba021d-4e7b-4c04-ad9a-9ecdf8211cf9.gif)
