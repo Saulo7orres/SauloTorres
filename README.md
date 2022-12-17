@@ -22,6 +22,19 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=saul0t0rres&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/saul0t0rres/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=saul0t0rres&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/saul0t0rres/github-readme-stats#gh-light-mode-only)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saul0t0rres&repo=github-readme-stats)](https://github.com/saul0t0rres/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saul0t0rres)](https://github.com/saul0t0rres/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saul0t0rres)](https://github.com/saul0t0rres/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saul0t0rres&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saul0t0rres&repo=convoychat" />
+</a>
+
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
 
 ![torresjump](https://user-images.githubusercontent.com/116840416/208263926-a5ba021d-4e7b-4c04-ad9a-9ecdf8211cf9.gif)
