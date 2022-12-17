@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Sou Especialista em Fisioterapeuta na Unidade de Terapia Intensiva (UTI).
+- Sou Especialista em Fisioterapia na Unidade de Terapia Intensiva (UTI).
 - Sou Técnico em Informática - Desenvolvimento de Sistemas.
 - Sou Técnico em Administração.
 
