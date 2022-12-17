@@ -19,8 +19,8 @@ Aqui estão algumas idéias para você começar:
 - Sou Técnico em Informática - Desenvolvimento de Sistemas.
 - Sou Técnico em Administração.
 
-[Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-[Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=saul0t0rres&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/saul0t0rres/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=saul0t0rres&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/saul0t0rres/github-readme-stats#gh-light-mode-only)
