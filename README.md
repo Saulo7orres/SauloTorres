@@ -31,8 +31,8 @@ Aqui estão algumas idéias para você começar:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saul0t0rres&theme=dark&layout=compact#gh-dark-mode-only)](https://github.com/saul0t0rres/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saul0t0rres&theme=default&layout=compact#gh-light-mode-only)](https://github.com/saul0t0rres/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saul0t0rres&theme=dark#gh-dark-mode-only)](https://github.com/saul0t0rres/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saul0t0rres&theme=default#gh-light-mode-only)](https://github.com/saul0t0rres/github-readme-stats#gh-light-mode-only)
 
 [<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>](https://www.reddit.com/user/saulotorres)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/saul0t0rres?tab=repositories)
