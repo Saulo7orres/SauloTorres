@@ -22,8 +22,8 @@ Aqui estão algumas idéias para você começar:
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=saul0t0rres&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/saul0t0rres/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=saul0t0rres&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/saul0t0rres/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=saul0t0rres&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Saulo7orres/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=saul0t0rres&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Saulo7orres/github-readme-stats#gh-light-mode-only)
 
 	
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -31,10 +31,10 @@ Aqui estão algumas idéias para você começar:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saul0t0rres&theme=dark#gh-dark-mode-only)](https://github.com/saul0t0rres/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saul0t0rres&theme=default#gh-light-mode-only)](https://github.com/saul0t0rres/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saul0t0rres&theme=dark#gh-dark-mode-only)](https://github.com/Saulo7orres/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saul0t0rres&theme=default#gh-light-mode-only)](https://github.com/Saulo7orres/github-readme-stats#gh-light-mode-only)
 
-##[<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>](https://www.reddit.com/user/saulotorres)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/saulo7orres?tab=repositories)
+[<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>](https://www.reddit.com/user/saulotorres)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Saulo7orres?tab=repositories)
 
 ![torresjump](https://user-images.githubusercontent.com/116840416/208263926-a5ba021d-4e7b-4c04-ad9a-9ecdf8211cf9.gif)
